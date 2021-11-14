@@ -1,4 +1,4 @@
-In this React movie app, ı am going to:
+In this React movie app :
 
 - Use a real API to search for movies as we type
 
